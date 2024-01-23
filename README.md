@@ -7,6 +7,7 @@ go build ./cmd/main.go && ./main
 ```
 
 ## Frontend (React / Vite)
+from "web" directory
 ```
 npm run dev
 ```
