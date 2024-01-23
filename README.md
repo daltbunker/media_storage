@@ -1,8 +1,12 @@
 # Media Storage
-store images
+A web app doing exactly as the title implies. Intended for image storage.
 
-# Backend (GO)
-go run cmd/main.go
+## Backend (Go)
+```
+go build ./cmd/main.go && ./main
+```
 
-# Frontend (React / Vite)
+## Frontend (React / Vite)
+```
 npm run dev
+```
